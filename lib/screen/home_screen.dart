@@ -1,10 +1,20 @@
+import 'package:contact_youtube/model/model_movie.dart';
 import 'package:flutter/material.dart';
 
 class HomeScreen extends StatefulWidget {
   _HomeScreenState createState() => _HomeScreenState();
 }
-
 class _HomeScreenState extends State<HomeScreen> {
+  List<Movie> movies =[
+    Movie.fromMap(
+        {
+         'title': '카지노',
+         'keyword': '도전/도박/판타지',
+         'poster': 'drama1.jpg',
+          'like': false,
+        }
+    )
+  ];
   @override
   void initState() {
     super.initState();
