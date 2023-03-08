@@ -13,7 +13,19 @@ class _HomeScreenState extends State<HomeScreen> {
       'keyword': '도전/도박/판타지',
       'poster': 'drama1.jpg',
       'like': false,
-    })
+    }),
+    Movie.fromMap({
+      'title': '카지노',
+      'keyword': '도전/도박/판타지',
+      'poster': 'drama1.jpg',
+      'like': false,
+    }),
+    Movie.fromMap({
+      'title': '카지노',
+      'keyword': '도전/도박/판타지',
+      'poster': 'drama1.jpg',
+      'like': false,
+    }),
   ];
 
   @override
