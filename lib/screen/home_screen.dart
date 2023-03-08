@@ -33,7 +33,7 @@ class TopBar extends StatelessWidget {
     child: Row(
       mainAxisAlignment: MainAxisAlignment.spaceBetween,
       children:<Widget>[
-      Image.asset('images/Nlogo.png',
+      Image.asset('images/drama1.jpg',
         fit: BoxFit.contain,
         height: 25,
       ),
