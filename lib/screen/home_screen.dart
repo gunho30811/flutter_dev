@@ -15,9 +15,9 @@ class _HomeScreenState extends State<HomeScreen> {
       'like': false,
     }),
     Movie.fromMap({
-      'title': '카지노',
-      'keyword': '도전/도박/판타지',
-      'poster': 'drama1.jpg',
+      'title': '라라랜드',
+      'keyword': '로맨스/노래/흥겨움',
+      'poster': 'drama2.jpg',
       'like': false,
     }),
     Movie.fromMap({
