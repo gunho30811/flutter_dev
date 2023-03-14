@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927628427886",
+    "project_id": "netfilxclone-f8255",
+    "storage_bucket": "netfilxclone-f8255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927628427886:android:95635ccfa0396c1fc0dc7f",
+        "android_client_info": {
+          "package_name": "com.example.contact_youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927628427886-71h6u92c4cicjish5epdtg04h4d0pbkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvIJb-wm7zuxbwUKtwTH2g9uFeELoDErk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927628427886-71h6u92c4cicjish5epdtg04h4d0pbkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
